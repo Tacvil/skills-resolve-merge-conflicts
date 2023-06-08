@@ -1,3 +1,1 @@
-Version control is useful for more than just code development, it allows you to track versions of any content. For example, with Git, you can manage your text work: this gives you the ability to view multiple drafts at the same time, evaluate the differences between them, and even roll back to a previous version. If necessary, you can share your work with other users on GitHub or other Git repositories.
 
-In this tutorial, we'll show you how to use Git to manage a small Markdown document. You'll learn how to save original versions, push commits, make changes, see differences between versions, and revert to a previous version. You can apply this workflow to your projects.
